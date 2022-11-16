@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-finder.iml" filepath="$PROJECT_DIR$/.idea/my-finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-hystrix-school-service/spring-hystrix-school-service.iml" filepath="$PROJECT_DIR$/spring-hystrix-school-service/spring-hystrix-school-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-hystrix-student-service/spring-hystrix-student-service.iml" filepath="$PROJECT_DIR$/spring-hystrix-student-service/spring-hystrix-student-service.iml" />
+    </modules>
+  </component>
+</project>
